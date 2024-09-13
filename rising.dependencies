@@ -1,7 +1,9 @@
 [
   {
-    "repository"  : "android_device_xiaomi_sm8250-common",
+    "remote"      : "github",
+    "repository"  : "RisingOSS-devices/android_device_xiaomi_sm8250-common",
     "target_path" : "device/xiaomi/sm8250-common",
+    "branch"      : "fourteen"
   },
   {
     "remote"      : "gitea",
