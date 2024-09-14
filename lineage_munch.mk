@@ -16,7 +16,6 @@ $(call inherit-product, device/xiaomi/munch/device.mk)
 
 # Rising Stuff
 RISING_MAINTAINER=erwinabs
-WITH_GMS := true
 TARGET_DEFAULT_PIXEL_LAUNCHER := true
 TARGET_PREBUILT_LAWNCHAIR_LAUNCHER := true
 
